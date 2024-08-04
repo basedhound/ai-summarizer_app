@@ -14,9 +14,9 @@
 
 ##  <br /> <a name="introduction">✨ Introduction</a>
 
-**[EN]** Summarize any kind of article with just one click using the powerful OpenAI model.
+**[EN]** Summarize any article with one click using the powerful OpenAI model. This web app features a modern interface, allowing users to input article URLs for concise AI-generated summaries. It saves summaries locally for easy history management and offers copy-to-clipboard functionality for effortless sharing. Advanced RTK Query API requests optimize data fetching and management.
 
-**[FR]** Résumez n'importe quel article en un seul clic en utilisant le puissant modèle OpenAI.
+**[FR]** Résumez n'importe quel article en un clic grâce au puissant modèle OpenAI. Cette application web offre une interface moderne et conviviale, permettant aux utilisateurs d'entrer des URL d'articles pour obtenir des résumés concis générés par l'IA. Les résumés sont enregistrés localement pour une gestion facile de l'historique, et une fonction de copie dans le presse-papiers facilite le partage. Les requêtes API avancées de RTK Query optimisent la récupération et la gestion des données.
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -98,4 +98,4 @@ npm run dev
 yarn dev
 ```
 
-Open [`http://localhost:3000`](http://localhost:3000) in your browser to view the project.
+Open [`http://localhost:5173`](http://localhost:5173) in your browser to view the project.
