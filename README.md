@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://summarize-fv.netlify.app" target="_blank">
-      <img src="public/preview.webp" alt="Project Banner">
+      <img src="public/preview.png" alt="Project Banner">
     </a>
   <h3 align="center">AI Summarizer</h3>
 </div>
@@ -20,15 +20,15 @@
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
-- **React** is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain. Its virtual DOM enhances performance by minimizing direct interactions with the browser's DOM.
+- [**React**](https://react.dev/reference/react) is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain. Its virtual DOM enhances performance by minimizing direct interactions with the browser's DOM.
 
-- **TypeScript** is a statically typed superset of JavaScript that allows for early detection of errors and more robust, maintainable code. TypeScript's type system helps developers catch mistakes early during the development process, ensuring a more stable and reliable application.
+- [**TypeScript**](https://www.typescriptlang.org/docs/) is a statically typed superset of JavaScript that allows for early detection of errors and more robust, maintainable code. TypeScript's type system helps developers catch mistakes early during the development process, ensuring a more stable and reliable application.
 
-- **Redux Toolkit** is a toolset for efficient state management in React applications, providing simplified APIs and reducing boilerplate code. It enhances code maintainability and scalability by promoting best practices for managing application state.
+- [**Redux Toolkit**](https://redux-toolkit.js.org/introduction/getting-started) is a toolset for efficient state management in React applications, providing simplified APIs and reducing boilerplate code. It enhances code maintainability and scalability by promoting best practices for managing application state.
 
-- **OpenAI API** is a powerful interface for accessing OpenAI's language models and capabilities, enabling developers to integrate advanced natural language processing (NLP) functionalities into their applications. It provides tools for generating text, answering questions, and performing other AI-driven tasks efficiently and effectively.
+- [**OpenAI API**](https://platform.openai.com/docs/api-reference/introduction) is a powerful interface for accessing OpenAI's language models and capabilities, enabling developers to integrate advanced natural language processing (NLP) functionalities into their applications. It provides tools for generating text, answering questions, and performing other AI-driven tasks efficiently and effectively.
 
-- **Tailwind** is a utility-first CSS framework that speeds up UI development by providing a set of pre-built utility classes. It allows developers to quickly build custom designs without writing traditional CSS, promoting rapid prototyping and design consistency.
+- [**Tailwind**](https://v2.tailwindcss.com/docs) is a utility-first CSS framework that speeds up UI development by providing a set of pre-built utility classes. It allows developers to quickly build custom designs without writing traditional CSS, promoting rapid prototyping and design consistency.
 
 
 
